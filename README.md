@@ -7,6 +7,10 @@ Lack is a Common Lisp library which allows web applications to be constructed of
 
 The scope is defining Lack applications and wrapping it up with Lack middlewares. On the other hand, [Clack](https://github.com/fukamachi/clack) is an abstraction layer for HTTP and HTTP servers and provides unified API.
 
+## Patches included in this branch
+
+* 40ants/uri-scheme-for-request
+
 ## Warning
 
 This software is still BETA quality. The APIs are being finalized.
