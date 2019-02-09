@@ -9,7 +9,7 @@ The scope is defining Lack applications and wrapping it up with Lack middlewares
 
 ## Patches included in this branch
 
-* 40ants/uri-scheme-for-request
+* 40ants/uri-scheme-for-request (merged-to-upstream)
 
 ## Warning
 
